@@ -19,8 +19,8 @@ Each implementation explores core AI/ML concepts and evaluates performance metri
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/GenerativeAI-Experiments.git
-cd GenerativeAI-Experiments
+git clone https://github.com/AzeemWaqarr/Generative-AI-Model-Implementations.git
+cd Generative-AI-Model-Implementations
 ```
 
 ### 2. Install Dependencies
