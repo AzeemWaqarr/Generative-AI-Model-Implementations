@@ -86,5 +86,5 @@ pip install -r requirements.txt  # (if applicable)
 
 For any questions, feel free to reach out!
 
-- **Email:** azeem.waqarr@example.com
+- **Email:** azeem.waqarr@gmail.com
 - **GitHub:** [AzeemWaqarr](https://github.com/AzeemWaqarr)
